@@ -1,0 +1,4 @@
+env
+instrucoes.txt
+.mypy_cache
+__pycache__
